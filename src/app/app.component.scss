@@ -1,0 +1,18 @@
+.notes-table {
+    max-height: 50%;
+    overflow-y: auto;
+
+    table {
+        .mat-column-value {
+            width: 78%;
+        }
+
+        .mat-column-date {
+            width: 15%;
+        }
+    }
+}
+
+.w-100 {
+    width: 100%;
+}
